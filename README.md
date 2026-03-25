@@ -29,8 +29,6 @@ Python 3.6+ and pip are required.
 ## Usage
 
 ```bash
-<<<<<<< HEAD
-=======
 $ python3 ya_seeker.py login  # only for usernames
 # or 
 $ python3 ya_seeker.py c48fhxw0qppa50289r5c9ku4k4 yandex_public_id
@@ -40,7 +38,6 @@ $ python3 ya_seeker.py c48fhxw0qppa50289r5c9ku4k4 yandex_public_id
 ## Example
 
 ```bash
->>>>>>> f6c82c9 (Resolve dependencies - leftover)
 $ python3 ya_seeker.py login
 [*] Get info by username `login`...
 
